@@ -1,5 +1,5 @@
 import tkinter as tk
-import ttkbootstrap as ttk
+import ttkbootstrap as ttk #python -m pip install ttkbootstrap
 
 
 def convert():
